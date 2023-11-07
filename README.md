@@ -18,5 +18,5 @@ Depoyed url (deployed using  branch `master`):`https://brewapps-2r4s.onrender.co
 
 # How to run this application locally
 1.Clone the repo and install the modules using command `npm install`</br>
-2.add .env files and add mongo url with variable name `MONGO_URI`</br>
+2.add .env file and add mongo url with variable name `MONGO_URI`</br>
 3.Run the app using command `node app.js`</br>
