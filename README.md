@@ -1,5 +1,6 @@
-# BrewApps-Task </br>
-BrewApps NodeJS Task</br>
+# BrewApps NodeJS Task </br>
+Depoyed url (deployed using  branch `master`):`https://brewapps-2r4s.onrender.com`
+
 
 #Postman Documentation:https://documenter.getpostman.com/view/22497198/2s9YXh52o6</br>
 
