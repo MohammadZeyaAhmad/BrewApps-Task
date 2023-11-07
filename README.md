@@ -1,18 +1,18 @@
-# BrewApps-Task
-BrewApps NodeJS Task
+# BrewApps-Task </br>
+BrewApps NodeJS Task</br>
 
 
-##API Doc
-#Postman Documentation:https://documenter.getpostman.com/view/22497198/2s9YXh52o6
+##API Doc </br>
+#Postman Documentation:https://documenter.getpostman.com/view/22497198/2s9YXh52o6</br>
 
-## APIs:
-#Get All Books:Method-GET
-  endpoint:/api/v1/BrewApps/book
-#Get Book by Id:Method:GET  
- endpoint:/api/v1/BrewApps/book/:id
-#Add Book:Method:POST
-  endpoint:/api/v1/BrewApps/book
-#Update Book:Method:PATCH
-  endpoint:/api/v1/BrewApps/book/:id
-#Delete Book:Method:DELETE
-  endpoint:/api/v1/BrewApps/book/:id
+## APIs:</br>
+#Get All Books:Method-GET</br>
+  endpoint:/api/v1/BrewApps/book</br>
+#Get Book by Id:Method:GET  </br>
+ endpoint:/api/v1/BrewApps/book/:id</br>
+#Add Book:Method:POST</br>
+  endpoint:/api/v1/BrewApps/book</br>
+#Update Book:Method:PATCH</br>
+  endpoint:/api/v1/BrewApps/book/:id</br>
+#Delete Book:Method:DELETE</br>
+  endpoint:/api/v1/BrewApps/book/:id</br>
