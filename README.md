@@ -5,7 +5,7 @@ BrewApps NodeJS Task</br>
 
 ## APIs:</br>
 #Get All Books:Method-GET</br>
-  endpoint:/api/v1/BrewApps/book</br>
+  endpoint:/api/v1/BrewApps/books</br>
 #Get Book by Id:Method:GET  </br>
  endpoint:/api/v1/BrewApps/book/:id</br>
 #Add Book:Method:POST</br>
