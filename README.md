@@ -1,8 +1,6 @@
 # BrewApps-Task </br>
 BrewApps NodeJS Task</br>
 
-
-##API Doc </br>
 #Postman Documentation:https://documenter.getpostman.com/view/22497198/2s9YXh52o6</br>
 
 ## APIs:</br>
